@@ -1,0 +1,15 @@
+C:\Users\cover\source\repos\OefeningenDotNet\bin\Debug\net8.0\OefeningenDotNet.exe
+C:\Users\cover\source\repos\OefeningenDotNet\bin\Debug\net8.0\OefeningenDotNet.deps.json
+C:\Users\cover\source\repos\OefeningenDotNet\bin\Debug\net8.0\OefeningenDotNet.runtimeconfig.json
+C:\Users\cover\source\repos\OefeningenDotNet\bin\Debug\net8.0\OefeningenDotNet.dll
+C:\Users\cover\source\repos\OefeningenDotNet\bin\Debug\net8.0\OefeningenDotNet.pdb
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.AssemblyInfoInputs.cache
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.AssemblyInfo.cs
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.csproj.CoreCompileInputs.cache
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.sourcelink.json
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.dll
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\refint\OefeningenDotNet.dll
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.pdb
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\OefeningenDotNet.genruntimeconfig.cache
+C:\Users\cover\source\repos\OefeningenDotNet\obj\Debug\net8.0\ref\OefeningenDotNet.dll
